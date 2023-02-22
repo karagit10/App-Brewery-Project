@@ -1,0 +1,178 @@
+body {
+  margin: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: large;
+}
+
+/* Front Container */
+
+.front_container {
+  text-align: center;
+  background-color: #eaf6f6;
+}
+
+.top_cloud {
+  margin: 2.5rem 0 2.5rem 0;
+  position: relative;
+  left: 30%;
+}
+
+.im_angela {
+  font-size: 7rem;
+  font-family: "Sacramento", cursive;
+  font-weight: bold;
+  color: #66bfbf;
+  margin: 0;
+}
+
+.tagline {
+  font-size: 2rem;
+  color: #66bfbf;
+}
+
+span {
+  text-decoration: underline;
+}
+
+.bottom_cloud {
+  margin: 2.5rem 0 2.5rem 0;
+  position: absolute;
+  left: 250px;
+  display: inline-block;
+}
+
+.mountain {
+  margin: 2rem 0 0 0;
+}
+
+/* Mid Container */
+
+.mid_container {
+  text-align: center;
+  margin-top: 5rem;
+}
+
+.card1 {
+  width: 400px;
+  display: inline-block;
+  text-align: center;
+}
+
+#hi {
+  font-size: 2.5rem;
+  color: #66bfbf;
+}
+
+.paragraphs {
+  display: inline-block;
+  margin-bottom: 3rem;
+}
+
+hr {
+  width: 4%;
+  border: 0.5rem #eaf6f6 dotted;
+  border-bottom: none;
+}
+
+#skillsheading {
+  padding: 2.5rem;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  text-align: center;
+}
+
+.card2 {
+  width: 50%;
+  text-align: left;
+  display: inline-block;
+}
+
+.computer_img {
+  height: 180px;
+  border-radius: 50%;
+  float: left;
+  margin: 0 2rem 0 0;
+}
+
+#DnD {
+  padding: 2rem 0 0 0;
+}
+
+h3 {
+  color: #11999e;
+}
+
+.card3 {
+  width: 50%;
+  text-align: left;
+  display: inline-block;
+  margin: 5rem;
+}
+
+.chilies_img {
+  height: 180px;
+  float: right;
+  margin: 0 0 0 2rem;
+}
+
+#chilies_heading {
+  padding: 2rem 0 0 0;
+}
+
+#gnt {
+  color: #66bfbf;
+  font-size: 2.5rem;
+  margin: 6rem 0 2.5rem 0;
+}
+
+.gnt-p {
+  width: 40%;
+  font-family: serif;
+  font-size: 1.3rem;
+  display: inline-block;
+}
+
+.btn {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  background-color: #01a3a4;
+  border-color: transparent;
+  border-width: 1px;
+  font-size: larger;
+  border-radius: 4px;
+  color: #fff;
+  cursor: pointer;
+  justify-content: center;
+  padding: calc(0.5em - 1px) 1em;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.btn:hover {
+  background-color: #11999e;
+}
+
+.forbtn {
+  text-align: center;
+  margin: 2rem;
+}
+
+/* Footer Container */
+
+.footer {
+  text-align: center;
+  background-color: #66bfbf;
+  padding: 30px;
+}
+
+#cp-tag {
+  color: #fff;
+  font-size: small;
+  margin: 2.5rem;
+}
+
+.social_links {
+  text-decoration: none;
+  color: #11999e;
+  padding: 1rem;
+}
